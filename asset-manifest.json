@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/talesoflovers/static/css/main.4f62453f.css",
-    "main.js": "/talesoflovers/static/js/main.86284651.js",
+    "main.js": "/talesoflovers/static/js/main.e64128a2.js",
     "static/media/14.jpg": "/talesoflovers/static/media/14.a97e2b46d62f4866eb50.jpg",
     "static/media/13.jpg": "/talesoflovers/static/media/13.43d495c74716618cc9f1.jpg",
     "static/media/4.jpg": "/talesoflovers/static/media/4.528f48c1ce5378551e06.jpg",
@@ -21,10 +21,10 @@
     "static/media/12.jpg": "/talesoflovers/static/media/12.29a86efc07cf2cab6ed2.jpg",
     "index.html": "/talesoflovers/index.html",
     "main.4f62453f.css.map": "/talesoflovers/static/css/main.4f62453f.css.map",
-    "main.86284651.js.map": "/talesoflovers/static/js/main.86284651.js.map"
+    "main.e64128a2.js.map": "/talesoflovers/static/js/main.e64128a2.js.map"
   },
   "entrypoints": [
     "static/css/main.4f62453f.css",
-    "static/js/main.86284651.js"
+    "static/js/main.e64128a2.js"
   ]
 }
