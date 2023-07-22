@@ -1,0 +1,65 @@
+main {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+h2 {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 1.5pc;
+}
+
+
+.partition {
+    height: auto;
+    background-color: black;
+    color: white;
+    font-style: bold;
+    padding: 5px 0 8px 0;
+    display: grid;
+    place-items: center;
+}
+
+
+.title {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, .25);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.quote {
+    height: auto;
+    padding: 10px 10px;
+    margin-bottom: 50px;
+    color: white;
+    /* background-color: rgba(0, 0, 0, .5); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.links {
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .25);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.links a {
+    font-family: sans-serif;
+    font-size: 1.25pc;
+    padding: 5px 10px;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, .5);
+}

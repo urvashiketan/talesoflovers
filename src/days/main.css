@@ -1,0 +1,41 @@
+.slide {
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h2 {
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+}
+
+
+.partition {
+    height: auto;
+    background-color: black;
+    color: white;
+    font-style: bold;
+    padding: 5px 0 8px 0;
+    display: grid;
+    place-items: center;
+}
+
+
+.back {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 1.5pc;
+    font-weight: 700;
+    position: fixed;
+    top: 25px;
+    left: 25px;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 100px;
+    z-index: 1;
+}
