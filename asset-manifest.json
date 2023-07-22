@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/talesoflovers/static/css/main.4f62453f.css",
+    "main.js": "/talesoflovers/static/js/main.5741662d.js",
+    "static/media/14.jpg": "/talesoflovers/static/media/14.a97e2b46d62f4866eb50.jpg",
+    "static/media/13.jpg": "/talesoflovers/static/media/13.43d495c74716618cc9f1.jpg",
+    "static/media/4.jpg": "/talesoflovers/static/media/4.528f48c1ce5378551e06.jpg",
+    "static/media/2.jpg": "/talesoflovers/static/media/2.8aaa1e890ef73af21655.jpg",
+    "static/media/0.jpg": "/talesoflovers/static/media/0.0380b5eb82d6e91dd457.jpg",
+    "static/media/1.jpg": "/talesoflovers/static/media/1.d9835ce20cc56564bd38.jpg",
+    "static/media/9.jpg": "/talesoflovers/static/media/9.05d8c7c31f1f2283f0d1.jpg",
+    "static/media/5.jpg": "/talesoflovers/static/media/5.7914b2820297c807dfd8.jpg",
+    "static/media/8.jpg": "/talesoflovers/static/media/8.bb9521b78ed5728b4df5.jpg",
+    "static/media/3.jpg": "/talesoflovers/static/media/3.2748edeb183932882541.jpg",
+    "static/media/11.jpg": "/talesoflovers/static/media/11.919284beb7ddeda6a150.jpg",
+    "static/media/10.jpg": "/talesoflovers/static/media/10.3ba04d053af7b24ae765.jpg",
+    "static/media/7.jpg": "/talesoflovers/static/media/7.af9c7f1270161267c6f1.jpg",
+    "static/media/16.jpg": "/talesoflovers/static/media/16.6182976fd4bc77fe401b.jpg",
+    "static/media/6.jpg": "/talesoflovers/static/media/6.5cba50941e3358ce0439.jpg",
+    "static/media/15.jpg": "/talesoflovers/static/media/15.d8f228e4dc2c5a2f1798.jpg",
+    "static/media/12.jpg": "/talesoflovers/static/media/12.29a86efc07cf2cab6ed2.jpg",
+    "index.html": "/talesoflovers/index.html",
+    "main.4f62453f.css.map": "/talesoflovers/static/css/main.4f62453f.css.map",
+    "main.5741662d.js.map": "/talesoflovers/static/js/main.5741662d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f62453f.css",
+    "static/js/main.5741662d.js"
+  ]
+}
